@@ -1,0 +1,7 @@
+Mask:Identity
+A fake credential generator
+
+Menu:
+    [1] Generate
+    [2] Settings
+    [3] Exit
